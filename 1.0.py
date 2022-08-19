@@ -93,7 +93,8 @@ def mada(event):
 
 
 def checkTime():
-    line_bot_api.broadcast(TextSendMessage(text="ロボット 起動"))
+    print("啟動服務")
+    
     message = TemplateSendMessage(
             alt_text="確認",
             template = ConfirmTemplate(
