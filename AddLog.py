@@ -26,4 +26,3 @@ def AddLog(User,Answer):
         print(ex)
         return False
 
-print(AddLog('User','Answer'))

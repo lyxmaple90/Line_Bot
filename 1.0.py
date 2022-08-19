@@ -31,7 +31,6 @@ def callback():
 def handle_message(event):
     gettext = event.message.text
     
-    
     # --------------------需要確認-------------------------------
     if gettext == '1':
         sendConfirm(event)
