@@ -15,8 +15,8 @@ from linebot.models import MessageEvent, TextMessage, TextSendMessage, TemplateS
 
 app = Flask(__name__)
 
-line_bot_api = LineBotApi('61r/mO0+uhN0io7/R0OnGZb5m3O7ED0Qr+s9xsijsYfvbRD+CdLmnasEwxxylaT5oGtOTOYdHNY9ZsMcsTfdcKIs18fsfSk+MXNgp/FI02m2yS8PvHUm3LR4x8mzVJqxzqqagFLQC145teKSw6+1mQdB04t89/1O/w1cDnyilFU=')
-handler = WebhookHandler('bf37792da9b27fac742e418094a6cffb')
+line_bot_api = LineBotApi('xxxxxxxxxxxxxxxxxxxx')
+handler = WebhookHandler('xxxxxxxxxxxxxxxxxxxx')
 
 
 
