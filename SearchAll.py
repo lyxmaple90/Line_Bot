@@ -48,7 +48,7 @@ def SearchAll(UserID):
 
     except Exception as ex:
         print(ex)
-        return False
+        return "記録ありません"
 
 
 
