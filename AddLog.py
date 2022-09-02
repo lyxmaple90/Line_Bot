@@ -3,11 +3,11 @@ import GetJPDateTime
 
 def AddLog(UserID,User,Answer):
     db_settings = {
-        "host": "db-mysql-sgp1-64164-do-user-12125624-0.b.db.ondigitalocean.com",
-        "port": 25060,
-        "user": "doadmin",
-        "password": "AVNS_EzPmmVy0LA0jjceHEob",
-        "db": "Pallet",
+        "host": "xxxxxxxxxxxxxxx",
+        "port": xxxxxxxxxxxxxxx,
+        "user": "xxxxxxxxxxxxxxx",
+        "password": "xxxxxxxxxxxxxxx",
+        "db": "xxxxxxxxxxxxxxx",
         "charset": "utf8"
     }
     try:
